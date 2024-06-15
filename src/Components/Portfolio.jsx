@@ -50,8 +50,7 @@ const projectList = [
   },
   {
     title: "AI blog website using only frontend framework",
-    description:
-      "Blogs regarding Artificial Intelligence for our colleg's AI club.",
+    description: "Blogs regarding Artificial Intelligence for our colleg's AI club.",
     url: "https://github.com/Kashvirita/init.ai",
   },
 ];
